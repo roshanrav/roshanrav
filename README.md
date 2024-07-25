@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Roshan Ravindran</h1>
-<h3 align="center"> Master's in CS @ VT | BS in CS @ VT | AI Engineer | Full stack developer </h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=outfit&weight=800&size=40&duration=4000&pause=2000&color=D9F2F7&background=FFAE4F00&width=435&lines=Hi+there!+I'm+Roshan+Ravindran)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanrav&label=Profile%20views&color=0e75b6&style=flat" alt="roshanrav" /> </p>
 
